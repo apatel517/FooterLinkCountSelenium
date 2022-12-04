@@ -1,9 +1,9 @@
-# FooterLinkCountSelenium
+# FooterLinkCountUsingSelenium
 
 # Hi, I'm Asad! 👋
 
 
-# FooterLinkCountSelenium
+# FooterLinkCountUsingSelenium
 
 
 The purpose of this project was to test my skills in webAutomation using Selenium Webdriver By Creating an Automation Webdriver Test Scripts to Counts the total link in the footer of webpage 
